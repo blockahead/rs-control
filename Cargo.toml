@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Kazuki Hamada"]
 
 [dependencies]
+nalgebra = "0.31"
